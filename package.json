@@ -1,0 +1,15 @@
+{
+  "name": "pro_x_usman",
+  "version": "1.0.0",
+  "description": "Termux Node.js SIM Data Tool",
+  "main": "tool.js",
+  "bin": {
+    "proxusman": "./tool.js"
+  },
+  "scripts": {
+    "start": "node tool.js"
+  },
+  "author": "PRO X USMAN",
+  "license": "MIT",
+  "dependencies": {}
+}
