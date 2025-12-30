@@ -39,6 +39,7 @@ Bina ijazat kisi ki personal information nikalna illegal ho sakta hai.
 
 ## ▶️ Run on Termux (ALL COMMANDS)
 pkg update -y
+
 pkg upgrade -y
 pkg install git nodejs -y
 git clone https://github.com/YOUR-GITHUB-USERNAME/pro_x_usman.git
